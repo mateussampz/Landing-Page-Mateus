@@ -96,6 +96,12 @@ main{
 }
 li{
     list-style-type: none;    
+    border-radius: 30px;
+    padding: 0px 30px;
+}
+li:hover{
+    transform: translateX(7px) translateY(-7px);
+    background-color: rgba(0,0,0, 0.1) ;
 }
 h2{
     display: flex;
@@ -123,6 +129,14 @@ footer{
 }
 #p-footer{
     font-size: 15px;
+}
+#l{
+    border-radius: 10px;
+   padding: 5px;
+}
+#l:hover{
+    transform: translateX(2px) translateY(-2px);
+    background-color: rgba(0,0,0, 0.1) ;
 }
 
 
