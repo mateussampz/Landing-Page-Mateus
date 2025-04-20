@@ -4,6 +4,8 @@
 
 --versão 0.1: segundo commit, código completo com responsividade simples, poucos elementos e sem javascript, mas já está no site.
 
+--versão 0.2: terceira commit, Adição de mais estilização para os links.
+
 https://mateussampz.netlify.app
 
 fundo: fundo gradiente com ondas de Bárbara Rodríguez,
